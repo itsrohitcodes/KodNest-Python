@@ -9,7 +9,7 @@ class StudentProfile:
         self.course = course
 
     # String representation of the object
-    def __str_(self):
+    def __str__(self):
         return f"{self.student_id} - {self.name} - {self.course}"
 
 # Class for placement manager
