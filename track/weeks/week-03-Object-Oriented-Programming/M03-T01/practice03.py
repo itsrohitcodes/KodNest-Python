@@ -22,7 +22,6 @@ skills = input().split()
 new_experience = int(input())
 new_skill = input().strip()
 
-
 # Create one StudentProfile object
 student = StudentProfile(name, experience, skills)
 
