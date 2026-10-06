@@ -1,4 +1,4 @@
-# Extend the Student Management System
+# Extend the Student Management Program
 
 # pyrefly: ignore [missing-import]
 from student_utils import calculate_average
