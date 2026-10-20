@@ -1,7 +1,7 @@
 # Debug Incorrect Job Ranking
 
 n = int(input())
-jobs = [ ]
+jobs = []
 
 for _ in range(n):
     title, score = input().rsplit(" ", 1)
